@@ -1,0 +1,1 @@
+copy /y .vimrc %userprofile%
